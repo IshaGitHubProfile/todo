@@ -1,0 +1,27 @@
+.btn {
+    background: linear-gradient(to top,purple,rgb(188, 107, 226));
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.8rem;
+    font-size: 1rem;
+    margin: 1rem;
+    cursor: pointer;
+}
+.input-list {
+    background: none;
+    border: 1px solid rgb(81, 75, 75);
+    color: white;
+    border-radius: 5px;
+    font-size: 1.3rem;
+    padding: 0.6rem;
+    text-align: center;
+}
+@media screen and (max-width:768px) {
+    .btn {
+        font-size: 0.8rem;
+    }
+    .input-list {
+        font-size: 1rem;
+    }
+}
