@@ -58,7 +58,7 @@
   }
  @media screen and (max-width:768px) {
     .lists {
-        max-width: 15rem;
+        max-width: 18rem;
     }
     .delete-btn {
         font-size: 0.8rem;
